@@ -61,7 +61,7 @@ SSIM (Structural Similarity Index)
 LPIPS (Perceptual similarity)
 
 UCIQE (Underwater Image Quality Evaluation)
-
+```text
 ## Project Structure
 /** underwater-enhancement/
 │
